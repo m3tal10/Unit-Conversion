@@ -10,7 +10,7 @@ background-color: black;
 /* Home section  which has the app name and nav bar. The styling is applied by id */
 
 #home {
-    background-color:  #483355;
+    background-color:  #7600bc;
     padding-bottom: 1cm;
     margin-left:-1cm;
     margin-right:-1cm;
@@ -38,7 +38,7 @@ background-color: black;
 /* Navigation Bar Buttons */
   .topmenu {
     color: lightgray;
-    background-color:   #483355;
+    background-color:   #7600bc;
     margin: 10px;
     padding: 10px;
     font-size: 20px;
